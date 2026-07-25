@@ -333,7 +333,7 @@ photos.forEach((p)=>{
     <div class="clip"></div>
     <div class="polaroid" style="--tilt:${tilt}deg">
       <div class="photo" style="background-image:url('${p.src}')"></div>
-      <div class="caption">${p.caption}</div>
+      <div class="caption">ㅤ</div>
     </div>
   `;
   gallery.appendChild(slot);
