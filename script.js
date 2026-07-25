@@ -355,3 +355,4 @@ for(let i=0;i<bulbCount;i++){
   c.style.animationDelay = (Math.random()*2)+"s";
   svg.appendChild(c);
 }
+
